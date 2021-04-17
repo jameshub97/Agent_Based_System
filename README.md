@@ -1,2 +1,2 @@
 # Agent_Based_System
-Mult-Agent system which automates agents purchasing books
+Multiagent book system. Simulated intelligent system which automated transactions between brokers, buyers, and sellers within the context of buying and selling books. 
