@@ -46,9 +46,6 @@ class buyer_thread extends Thread {
         System.out.println(buyer.getBuyer_2() + " has bought");
         final Data item4 = new Data(1, (String) sales.getSales_2(), sales.getValue());
         books.add(item4);
-//            Unable to find a solution to display realistic transactions
-//            What is present is just randomised buyer selection
-
     }
 
 
